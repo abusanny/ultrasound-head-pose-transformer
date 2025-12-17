@@ -284,7 +284,7 @@ This project is provided as-is for research and educational purposes.
 
 ## Contact
 
-For questions or collaboration inquiries, please contact: [your.email@example.com](mailto:your.email@example.com) or open an issue on GitHub.
+For questions or collaboration inquiries, please contact: [abusanny40@gmail.com](mailto:your.email@example.com) or open an issue on GitHub.
 
 ---
 
